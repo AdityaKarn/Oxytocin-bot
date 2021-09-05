@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+    <title>Products</title>
+</head>
+<body>
+    <h1 style="
+    text-align: center;
+"> Products </h1>
+    <div class = "main_page">
+        {% for product in products %}
+            
+            <div class = "card">
+                <div class = "individual_card">
+                    unique_identifier: {{ product.unique_identifier }}
+                    <br>
+                    Product Name: {{product.product_name}}
+                    <br>
+                    Description: {{product.Description}}
+                    <br>
+                    Inventory : {{product.inventory}}
+                    <br>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+</body>
+</html>
