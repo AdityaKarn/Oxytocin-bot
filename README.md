@@ -48,6 +48,11 @@ Steps to run locally:
 
 **Frontend webapp to see all the products:** https://oxytocin-bot.herokuapp.com/
 
+## ScreenShots
+
+![ss1](https://i.ibb.co/fSRd6z5/ss1.png)
+![ss2](https://i.ibb.co/RcrWR4D/ss2.png)
+![ss3](https://i.ibb.co/Z6TLLr6/ss3.png)
 
 ## Video Demo Link
 to be added
