@@ -35,7 +35,7 @@ def reply_with_recipe_info():
     elif message == "C":
         res += msg.insert_product_script(8)
     elif message == "D":
-        res += "click on the link: www.oxytocin-bot.herokuapp.com \n"
+        res += "click on the link: oxytocin-bot.herokuapp.com/ \n"
         print(res)
     elif 'UPI' in message:
         unique_identifier = message.split()[1]
