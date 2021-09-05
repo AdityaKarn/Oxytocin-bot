@@ -2,7 +2,7 @@
 def insert_product_script(idx):
     scripts = [
         "Send A for adding a product",
-        "Send B for viewing product\nSend C for setting inventory \nSendD to view all products",
+        "Send B for viewing product\nSend C for setting inventory \nSend D to view all products",
         "Ok, what is your product's unique identifier? \n Send UPI + <your own unique identifier>",
         "Sorry your unique identifier is already present, please enter any other unique identifier",
         "What's the product name? \n Send PN + <your unique identifier> + <product name>",
