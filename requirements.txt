@@ -19,4 +19,3 @@ six==1.16.0
 twilio==6.63.1
 urllib3==1.26.6
 Werkzeug==2.0.1
-winkerberos==0.8.0
