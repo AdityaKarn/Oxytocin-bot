@@ -55,4 +55,4 @@ Steps to run locally:
 ![ss3](https://i.ibb.co/Z6TLLr6/ss3.png)
 
 ## Video Demo Link
-to be added
+https://youtu.be/BBXgNwS0yck
